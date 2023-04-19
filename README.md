@@ -1,1 +1,6 @@
-# CS360
+# The requirements of the app were to create an event racker app that allowed the user to addand remove events and also send a notification about the event. The user needs were to have an app to maintain event and to easily be able to add them.
+#Three screens were made: one for login, one for the events, and one for adding events. the adding events screen I added in a dropdown menu for the lists of days, years, and months to make it simpler to add an event. My UI design was made in a simple way for everyone to understnad. They were successful in that the designs were made easy for all users.
+#I approached the design of my app through knowing and applying the basic necessities of Java and XML. I then applied more advanced items in order to complete the app. I will use this in the future because programming is best handled when you know the basic first because of the importance of the basics.
+#I tested through JUnit unit testing. This is important because if something happens during the test, you can then fix the issue before launching the app.
+#I had to innovate during the finalization part so I could create a proper system for the adding of the events and storing of the events.
+#I was best in the UI design part of the mobile app.
